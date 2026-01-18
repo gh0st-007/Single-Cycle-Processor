@@ -1,6 +1,6 @@
 # Single-Cycle-Processor
-This is a 32-bit processor design and is a reduced version of a RISC-V RV32I processor has been implemented using Verilog.
-Type of instructions implemented - R-type, I-type, B-type, J-type, S-type.
+This is a 32-bit processor design and is a reduced version of a RISC-V RV32I processor has been implemented using Verilog./
+The following type of instructions have been implemented - R-type, I-type, B-type, J-type, S-type.
 
 A list of all the instructions implemented is as follows:
 R-Type: ADD,SUB,SLT,OR,AND
