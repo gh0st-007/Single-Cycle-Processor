@@ -52,7 +52,7 @@ x13 ->  0
 x14 ->  0       
 x15 ->  7    
 
-Also, the data memory location 0x100 should get the following value: 0x00000055
+Also, the data memory location 0x100 should get the following value: 0x00000015
 
 The wavform diagram of the register file after running the testbench is shown below:
 ![Waveforms](Single_Cycle_waveform.png)
