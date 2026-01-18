@@ -34,18 +34,20 @@ addi x14,x0,1
 addi x15,x0,7   
 
 The above program should result in the following registers in the register file getting the following values:  
-x1       5   
-x2       10   
-x3       15  
-x4       5  
-x5       1  
-x6       0  
-x7       0  
-x8       2  
-x9       15   
-x10      5   
-x11      15  
-x12      0  
-x13      0       
-x14      0       
-x15      7    
+x1           5   
+x2           10   
+x3           15  
+x4           5  
+x5           1  
+x6           0  
+x7           0  
+x8           2  
+x9           15   
+x10          5   
+x11          15  
+x12          0  
+x13          0       
+x14          0       
+x15          7    
+
+The wavform diagram of the register file after running the testbench is shown below:
