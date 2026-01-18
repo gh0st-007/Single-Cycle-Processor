@@ -12,7 +12,7 @@ J-Type: JAL
 
 To test the design, we take a test program which includes all the implemented instructions and convert it into its equivalent hex code and place it in the instruction memory.  
 Here is the assembly program:  
-
+```
 addi x1,x0,5  
 addi x2,x0,10  
 add x3,x1,x2  
@@ -32,7 +32,7 @@ addi x13,x0,1
 jal x0,+8  
 addi x14,x0,1   
 addi x15,x0,7   
-
+```
 The above program should result in the following registers in the register file getting the following values:  
 x1 ->   5   
 x2 ->   10   
