@@ -51,3 +51,4 @@ x14          0
 x15          7    
 
 The wavform diagram of the register file after running the testbench is shown below:
+![Waveforms](Single_Cycle_Waveform.png)
